@@ -6,7 +6,7 @@ For this project, we had to create our own version of the famous game Tetris.
 In order to realise this project, we had to follow a multitude of instructions, helping us building the game step by step, while making us discover coding tips and good practices, such as code refactorisation.  
   
 With this program, you will be able to play a full game of Tetris, just like the original.  
-Note : You can add up to 2 arguments in the main, to add elements before the game starts, and you can also disable the music by commenting the lines with the function "ajouterMesique()" in the "FallingBloxVersion1" file.  
+Note : You can add up to 2 arguments in the main, to add elements before the game starts, and you can also disable the music by commenting the lines with the function "ajouterMusique()" in the "FallingBloxVersion1" file.  
   
 You will also find in this repository a pdf document explaining all of the game's controls.  
   
